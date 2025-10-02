@@ -23,3 +23,6 @@ More features and improvements will be added in future updates.
    ```bash
    git clone git@github.com:NazarAX/BlackholeSimulation.git
    cd BlackholeSimulation
+2. Run with gradle:
+   ```bash
+   ./gradlew run
